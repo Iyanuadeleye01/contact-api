@@ -1,0 +1,24 @@
+{
+  "name": "contact-api",
+  "version": "1.0.0",
+  "description": "my contact-api project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iyanuadeleye01/contact-api.git"
+  },
+  "author": "Iyanu Adeleye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iyanuadeleye01/contact-api/issues"
+  },
+  "homepage": "https://github.com/Iyanuadeleye01/contact-api#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongodb": "^7.2.0"
+  }
+}
